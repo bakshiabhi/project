@@ -20,7 +20,7 @@ function App() {
         
         <div className="container mx-auto px-6 py-24">
           <div className="max-w-3xl">
-            <h1 className="text-5xl font-bold mb-6">Transform Your Business with Alpha Lotus</h1>
+            <h1 className="text-5xl font-bold mb-6">Transform Your Business with AlphaLotus</h1>
             <p className="text-xl mb-8">Innovative solutions to drive your success forward. We combine expertise with cutting-edge strategies to help your business thrive.</p>
             <a href="#contact" className="inline-flex items-center bg-white text-purple-900 px-6 py-3 rounded-lg font-semibold hover:bg-purple-100 transition-colors">
               Get Started
