@@ -86,15 +86,15 @@ function App() {
             <div className="space-y-8">
               <div className="flex items-center space-x-4">
                 <Mail className="h-6 w-6 text-purple-600" />
-                <span>alphalotus.biz</span>
+                <span>alphalotus.shop</span>
               </div>
               <div className="flex items-center space-x-4">
                 <Phone className="h-6 w-6 text-purple-600" />
-                <span>+1 (555) 123-4567</span>
+                <span>+44 </span>
               </div>
               <div className="flex items-center space-x-4">
                 <MapPin className="h-6 w-6 text-purple-600" />
-                <span>123 Business Avenue, Suite 100<br />New York, NY 10001</span>
+                <span>Ansford road<br />London, BR1 5QU</span>
               </div>
             </div>
             <form className="space-y-6">
@@ -108,7 +108,7 @@ function App() {
               <div>
                 <input 
                   type="email" 
-                  placeholder="Your Email"
+                  placeholder="hello@alphalotus.shop"
                   className="w-full px-4 py-2 rounded-lg border focus:outline-none focus:ring-2 focus:ring-purple-600"
                 />
               </div>
