@@ -108,7 +108,7 @@ function App() {
               <div>
                 <input 
                   type="email" 
-                  placeholder="hello@alphalotus.shop"
+                  placeholder="alphalotuslimited@gmail.com"
                   className="w-full px-4 py-2 rounded-lg border focus:outline-none focus:ring-2 focus:ring-purple-600"
                 />
               </div>
