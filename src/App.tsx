@@ -86,7 +86,7 @@ function App() {
             <div className="space-y-8">
               <div className="flex items-center space-x-4">
                 <Mail className="h-6 w-6 text-purple-600" />
-                <span>alphalotus.shop</span>
+                <span>alphalotus.online</span>
               </div>
               <div className="flex items-center space-x-4">
                 <Phone className="h-6 w-6 text-purple-600" />
